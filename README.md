@@ -11,4 +11,4 @@ To get started I wanted to meet up with everyone in a huddle and explain what I 
  has a lot of background knowledge on Astrology that we can implement for the app. I also found a website where can access free data https://www.kaggle.com/datasets we can incorporate into the application. Here is more data we might be able to use https://www.astro.com/swisseph/swepha_e.htm it was recommended by users of this subreddit on this post: https://www.reddit.com/r/astrology/comments/twe4bq/dataset_planets_and_houses/. Lmk what's a good time to get started so we can go over what 
 @Armando Pires
  and I did so far and next steps :raised_hands::skin-tone-5: (We didn't start anything regarding building the app; we mostly just set up this channel and consolidated resources).
-HELLO
+

@@ -1,0 +1,21 @@
+.child {
+    border-radius: 5px;
+    padding: 10px;
+    background-color: lightblue;
+    border: 2px solid red;
+  }
+  
+  .container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+    grid-auto-rows: 100px;
+  }
+
+  img {
+    width: 100%;
+    max-width: 500 px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
